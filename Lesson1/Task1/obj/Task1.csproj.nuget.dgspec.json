@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kyrpa\\OneDrive\\Desktop\\Lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\kyrpa\\OneDrive\\Desktop\\lesson1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kyrpa\\OneDrive\\Desktop\\Lesson1\\Task1\\Task1.csproj": {
+    "C:\\Users\\kyrpa\\OneDrive\\Desktop\\lesson1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\Lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\lesson1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\Lesson1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\lesson1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\kyrpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\Lesson1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\kyrpa\\OneDrive\\Desktop\\lesson1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kyrpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
